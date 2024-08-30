@@ -12,11 +12,3 @@ docs/
 
 # Dotenv file
 .env
-
-broadcast/
-lib/
-
-# Node modules
-node_modules/
-
-
