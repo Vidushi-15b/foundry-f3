@@ -16,5 +16,7 @@ docs/
 broadcast/
 lib/
 
+# Node modules
+node_modules/
 
 
