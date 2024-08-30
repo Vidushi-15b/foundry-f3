@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+lib/
+
+# Ignore macOS system files
+.DS_Store

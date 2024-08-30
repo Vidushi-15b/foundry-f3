@@ -1,6 +1,12 @@
 [submodule "foundryf3/foundy-simple-storage-f3/lib/forge-std"]
 	path = foundryf3/foundy-simple-storage-f3/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundryf3/foundry-fund-me-f3/lib/chainlink-brownie-contracts"]
+	path = foundryf3/foundry-fund-me-f3/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundryf3/foundry-fund-me-f3/lib/foundry-devops"]
+	path = foundryf3/foundry-fund-me-f3/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
 [submodule "foundryf3/foundry-fund-me-f3/lib/forge-std"]
 	path = foundryf3/foundry-fund-me-f3/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
