@@ -16,5 +16,5 @@ docs/
 broadcast/
 lib/
 
-# Ignore macOS system files
-.DS_Store
+
+
