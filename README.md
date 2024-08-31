@@ -1,4 +1,6 @@
-We talk about 4 test tiers in the video.
+foundry have 2 folders:
+1.FUNDME
+2FOUNDRY-SIMPLE-STORAGE
 
 1.Unit
 2.Integration
